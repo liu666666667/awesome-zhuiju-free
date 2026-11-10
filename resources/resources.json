@@ -358,50 +358,6 @@
       "featured": true
     },
     {
-      "id": "sorani",
-      "name": "青空次元",
-      "url": "https://www.sorani.net",
-      "category": "online_video",
-      "summary": "网友称最夯动漫在线站。",
-      "summary_short": "网友称最夯动漫在线站",
-      "tags": [
-        "在线影视",
-        "动漫",
-        "在线看"
-      ],
-      "access": {
-        "requires_login": false,
-        "free_level": "unknown",
-        "regions": [
-          "GLOBAL"
-        ]
-      },
-      "scores": {
-        "more": 5,
-        "speed": 5,
-        "clean": 5,
-        "stable": 5,
-        "ease": 5
-      },
-      "risks": {
-        "copyright": "high",
-        "safety": "medium",
-        "privacy": "unknown",
-        "payment": "unknown"
-      },
-      "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
-        "method": "manual",
-        "notes": "根据用户补充更新简介：网友称最夯动漫在线站；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
-      },
-      "source": {
-        "submitted_by": "maintainer",
-        "added_at": "2026-07-04"
-      },
-      "featured": true
-    },
-    {
       "id": "appmovie",
       "name": "APP影院",
       "url": "https://www.appmovie.art",
@@ -3573,7 +3529,7 @@
       "featured_order": 1,
       "github": {
         "full_name": "mtvpls/MoonTVPlus",
-        "stars": 3698,
+        "stars": 3694,
         "pushed_at": "2026-10-28T12:28:42Z"
       }
     },
@@ -3623,7 +3579,7 @@
       "featured_order": 2,
       "github": {
         "full_name": "Hiram-Wong/zyfun",
-        "stars": 9125,
+        "stars": 9122,
         "pushed_at": "2026-06-25T14:11:54Z"
       }
     },
@@ -3673,7 +3629,7 @@
       "featured_order": 3,
       "github": {
         "full_name": "Guovin/iptv-api",
-        "stars": 26028,
+        "stars": 26021,
         "pushed_at": "2026-10-14T01:21:43Z"
       }
     },
@@ -3723,8 +3679,8 @@
       "featured_order": 4,
       "github": {
         "full_name": "iptv-org/iptv",
-        "stars": 143617,
-        "pushed_at": "2026-11-09T01:53:18Z"
+        "stars": 143604,
+        "pushed_at": "2026-11-09T00:12:18Z"
       }
     },
     {
@@ -3773,7 +3729,7 @@
       "featured_order": 5,
       "github": {
         "full_name": "fish2018/pansou",
-        "stars": 15165,
+        "stars": 15164,
         "pushed_at": "2026-10-12T06:00:52Z"
       }
     },
@@ -3873,7 +3829,7 @@
       "featured_order": 7,
       "github": {
         "full_name": "Cp0204/quark-auto-save",
-        "stars": 3099,
+        "stars": 3097,
         "pushed_at": "2026-07-09T11:44:49Z"
       }
     },
@@ -3923,8 +3879,8 @@
       "featured_order": 8,
       "github": {
         "full_name": "open-ani/animeko",
-        "stars": 21621,
-        "pushed_at": "2026-11-09T02:58:12Z"
+        "stars": 21615,
+        "pushed_at": "2026-11-08T12:21:28Z"
       }
     },
     {
@@ -3974,7 +3930,7 @@
       "featured_order": 9,
       "github": {
         "full_name": "Predidit/Kazumi",
-        "stars": 41759,
+        "stars": 41698,
         "pushed_at": "2026-11-04T11:47:25Z"
       }
     },
@@ -4025,7 +3981,7 @@
       "featured_order": 10,
       "github": {
         "full_name": "MoonTechLab/Selene",
-        "stars": 2639,
+        "stars": 2638,
         "pushed_at": "2026-05-25T10:26:26Z"
       }
     },
@@ -4077,7 +4033,7 @@
       "featured_order": 11,
       "github": {
         "full_name": "fish2018/webhtv",
-        "stars": 1889,
+        "stars": 1886,
         "pushed_at": "2026-11-08T17:15:19Z"
       }
     },
@@ -4129,8 +4085,8 @@
       "featured_order": 12,
       "github": {
         "full_name": "Silent1566/webhtv",
-        "stars": 795,
-        "pushed_at": "2026-11-09T07:09:57Z"
+        "stars": 793,
+        "pushed_at": "2026-11-08T09:44:11Z"
       }
     },
     {
@@ -4586,7 +4542,7 @@
       "featured_order": 14,
       "github": {
         "full_name": "FongMi/TV",
-        "stars": 10406,
+        "stars": 10396,
         "pushed_at": "2026-11-06T15:57:24Z"
       }
     },
@@ -5393,7 +5349,7 @@
       "featured": true,
       "github": {
         "full_name": "czy0729/Bangumi",
-        "stars": 6228,
+        "stars": 6226,
         "pushed_at": "2026-11-08T12:34:04Z"
       }
     },
@@ -5781,7 +5737,7 @@
       "featured": true,
       "github": {
         "full_name": "buhanzhe/NativeWasmTv",
-        "stars": 445,
+        "stars": 443,
         "pushed_at": "2026-11-06T12:43:37Z"
       }
     },
@@ -5833,6 +5789,48 @@
         "stars": 162,
         "pushed_at": "2026-11-07T21:24:02Z"
       }
+    },
+    {
+      "id": "yingxivod-com-53",
+      "name": "影夕视频",
+      "url": "https://yingxivod.com/",
+      "category": "online_video",
+      "summary": "高清免费在线影视，每日更新",
+      "summary_short": "高清免费在线影视，每日更新",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-11-04",
+        "method": "manual",
+        "notes": "维护者 @laoma528 已通过 ok 确认收录。 测试信息：2026-11-04，美国东部。 提交者风险说明：版权：内容聚合自网络公开搜索结果，版权归原权利方，播放页有滚动免责声明（仅供学习交流）。广告/跳转：无弹窗、无诱导下载、无强制跳转，播放页有一个滚动提示条。支付：全站免费观看，无会员、无付费项目。隐私：无需注册即可观看。利益关系披露：提交人是该站运营团队成员，本次为自荐收录。"
+      },
+      "source": {
+        "submitted_by": "@samuelsuenyi-hub",
+        "added_at": "2026-11-07"
+      },
+      "featured": true
     }
   ]
 }
